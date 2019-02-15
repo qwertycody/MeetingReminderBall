@@ -13,6 +13,10 @@ An annoying but effective meeting reminder that ensures you will never miss a me
 
 ---
 
+![Animation of Ball](Assets/animationRecording.gif)
+
+---
+
 #  Features:
 - Annoying ball that bouces around the screen:
   - Image is customizable
