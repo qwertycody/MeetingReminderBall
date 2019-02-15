@@ -1,0 +1,10 @@
+C:\Users\garrettc\Downloads\MeetingReminderBall\MeetingReminderBall\bin\Debug\MeetingReminderBall.exe.config
+C:\Users\garrettc\Downloads\MeetingReminderBall\MeetingReminderBall\bin\Debug\MeetingReminderBall.exe
+C:\Users\garrettc\Downloads\MeetingReminderBall\MeetingReminderBall\bin\Debug\MeetingReminderBall.pdb
+C:\Users\garrettc\Downloads\MeetingReminderBall\MeetingReminderBall\obj\Debug\MeetingReminderBall.csprojAssemblyReference.cache
+C:\Users\garrettc\Downloads\MeetingReminderBall\MeetingReminderBall\obj\Debug\MeetingReminderBall.Properties.Resources.resources
+C:\Users\garrettc\Downloads\MeetingReminderBall\MeetingReminderBall\obj\Debug\MeetingReminderBall.csproj.GenerateResource.cache
+C:\Users\garrettc\Downloads\MeetingReminderBall\MeetingReminderBall\obj\Debug\MeetingReminderBall.csproj.CoreCompileInputs.cache
+C:\Users\garrettc\Downloads\MeetingReminderBall\MeetingReminderBall\obj\Debug\MeetingReminderBall.exe
+C:\Users\garrettc\Downloads\MeetingReminderBall\MeetingReminderBall\obj\Debug\MeetingReminderBall.pdb
+C:\Users\garrettc\Downloads\MeetingReminderBall\MeetingReminderBall\obj\Debug\MeetingReminderBall.MeetingReminderForm.resources
