@@ -24,7 +24,7 @@ An annoying but effective meeting reminder that ensures you will never miss a me
 # Instructions - For Download
 
 **Step 1:**
-[Click here to Download](asdf).
+[Click here to Download](MeetingReminderBall/blob/master/MeetingReminderBall/bin/Release/MeetingReminderBall.exe).
 
 **Step 2:**
 Move the Downloaded Executable to somewhere semi-permanent (its own folder somewhere) or easy to find on your machine (not the downloads folder).
